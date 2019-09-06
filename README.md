@@ -1,5 +1,9 @@
 # SysbioHackathon
 
+> Talk is cheap. Show me the code.
+>
+> \- Linus Torvalds
+
 SysbioHackathonとはおよそ月一開催で行われる生命情報科学系のハッカソンです。
 
 情報共有とソフトウェア開発のやる気維持を主たる目的としています。
