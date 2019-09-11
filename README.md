@@ -1,7 +1,6 @@
 # BDR・SFC・IAB合同ハッカソン
 
 > Talk is cheap. Show me the code.
->
 > \- Linus Torvalds
 
 BDR・SFC・IAB合同ハッカソンとはおよそ月一開催で行われる生命情報科学系のハッカソンです。
