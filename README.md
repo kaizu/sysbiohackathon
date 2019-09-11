@@ -11,6 +11,8 @@ BDR・SFC・IAB合同ハッカソンとはおよそ月一開催で行われる�
 - [慶應義塾大学湘南藤沢キャンパス](https://www.sfc.keio.ac.jp/) 冨田勝研究室
 - [慶應義塾大学先端生命科学研究所](http://www.iab.keio.ac.jp/)
 
+問い合わせは[kaizu](https://github.com/kaizu)まで。
+
 ## ハッカソン 2019年9月
 
 2019年9月16日の開催を予定。
