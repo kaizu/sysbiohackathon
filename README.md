@@ -25,7 +25,7 @@ BDR・SFC・IAB合同ハッカソンとはおよそ月一開催で行われる�
 |---|---|
 | **開催場所** | BDR、SFC、IABの三か所（もしくは遠隔） |
 | **開催日時** | 2019年11月13日（水） |
-| **申し込み** | [参加申し込み](https://join.slack.com/t/sysbio-hack/shared_invite/enQtNzcxNjI1NDg2NTk5LTk4MGQ3YWI2ZWU0Zjk5N2I0YjgwNTU3YmUzNmQ3ODZmMTdkODk5NmFiM2NkM2NhMmVmNTc5YjU1M2JlNTg3OGI) |
+| **申し込み** | [参加申し込み](https://join.slack.com/t/sysbio-hack/shared_invite/enQtNzk4OTU5ODc1MjcxLTU3MzMyMWFjZGJlODk5YTgzMTQ2NDllYjE4ZDViNDJiNWVhZmNhNjFjZGJmMDJmZjkwNzk2NDk5OWI4Nzk4ZmQ) |
 | **参加対象者** | 生命情報科学に興味のある人全般 |
 | **規模** | 10名程度を予定 |
 | **参加費** | 無料 |
